@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+    background-color:  #a18aa5;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    font-size: 3em;
+}
+h2{
+    font-size: 1em;
+}
+.buttons-container{
+    margin-top: 0%;
+    align-items: center;
+}
